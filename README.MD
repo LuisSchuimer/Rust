@@ -1,4 +1,4 @@
-# My Rust leaning experience
+# My Rust learning experience
 
 Since some months now, I want to learn a **more low level programing language**. I came across Rust and directly got to work.
 The thing I noticed was that it is harder to learn than **Python**, a language I learned about 4 years ago. 
